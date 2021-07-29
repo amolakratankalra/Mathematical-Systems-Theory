@@ -1,2 +1,2 @@
 # Mathematical-Systems-Theory
-Mostly Electrical Networks and some other notes on different topics in theoretical electrical engineering! 
+Most notes on topics in theoretical engineering! I need to type them up in latex at somepoint! For now the notes only contain electrical network theory stuff
